@@ -1,1 +1,1 @@
-
+This week we learned how to set up our github and started to put folders in for homework assignments. Some of the challenges I had was knowing if I did things right. I am clearly new to github, so I feel very lost sometimes since I have never used anything like this. Obviously some of the successes I had during this assignment was reseaching things and zooming for a weekly check in because I have done this a million of times. I feel as if it will take time to get used to, but am very eager to learn more so I can reach my full potential in the class.
