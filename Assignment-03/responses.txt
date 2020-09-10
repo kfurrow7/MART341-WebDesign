@@ -1,0 +1,5 @@
+Web Design Assignment 3
+1.	Pinterest, YouTube, lululemon
+2.	An IP address helps a computer identify a given network and a DNS stands for domain name service which converts alphabetic references back to an IP address.
+3.	A cookie or cookies on a computer are files with little pieces of data for example a cookie can store a username and password. But if there is a certain type of cookie like a HTTP than it helps identify specific users to enhance browsing on the web.
+4.	Three key components for a URL to work is a scheme which means it identifies the structures that must be used on the internet. Second you need a host to help with exposure. And third you need a path which is known for a specific resource that a web client wants to access.
