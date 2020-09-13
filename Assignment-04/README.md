@@ -1,0 +1,3 @@
+README
+•	A web browser is there for people to access the internet through a software program that allows them to do that. Now in order for web browsers to function they need a HTML to allow for the web page to have text, links, and references to images etc. I typically just use safari because that is what I have access to on my laptop and phone along with google being an add on to that.
+•	Markup languages is the way it represents data using a particular type of scripting language. This means that it just makes it easier for people to read and using phrases and terminology that we know instead of technical programming terminology.
