@@ -1,0 +1,3 @@
+Every HTMl document has a <head> and <body>, so it also has head and body properties, pointing at those elements.
+Structural markup is what makes a document have a certain type of appearance and provides information about divisions, titles, sections, paragraphs, or other aspects of the structure. Semantic markup is reinforce the meaning of the information within the webpage.
+My work cycle for this assignment was a lot better than the previous assignment and the instructions were very helpful. I think its starting to click a little bit better making me have a little more enjoyment in doing the assignments.
