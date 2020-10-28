@@ -9,9 +9,10 @@ body{
   border-color: turquoise;
   /*Add space between the border and its inside elements. */
   padding: 10px;
+
   /* Color the background light pink. */
-  background:lightpink RGB(255, 182, 193);
-  width: 75%
+  background-image: url('../images/polka dot.png');
+  width: 75%;
   margin: auto;
 }
 
@@ -22,11 +23,21 @@ div.align{
 .secondary-container{
 
   margin: auto;
-  width:50%;
+  width:30%;
   padding: 50px;
   border-bottom: 1px black solid;
   border-spacing: inherit;
 }
+
+.third-container{
+  margin: auto;
+  width: 50%;
+  background-color: #FFB6C1;
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
+
 
 
 #mainheader{
@@ -34,6 +45,9 @@ div.align{
     left: 20px;
     top:5px;
     color: lightblue;
-    opacity: .75;
+    opacity: solid;
     font-size: 60px;
+    background-color: #FFB6C1;
+    width: 30%;
+    font-weight: bolder;
 }
