@@ -1,0 +1,2 @@
+System fonts are already installed on your computer and many of them are poor quality. A web font is specifically tuned font for use on the website using the CSS @font-face declaration. Web safe fonts appear to be exactly how they are intended to look. Fallbacks are there just in case the font you want is not available.
+I had trouble making my table a little bit and trying to get the first sentence bigger.
