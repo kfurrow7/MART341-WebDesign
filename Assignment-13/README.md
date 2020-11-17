@@ -1,0 +1,1 @@
+ My imaginary client was NIKE and they needed to keep people excited for more NIKE things during the pandemic. It is important to have a mobile first design because today technology is so relevant and growing everyday.
