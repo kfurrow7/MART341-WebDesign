@@ -1,0 +1,1 @@
+Everything I learned in this class was brand new and it was super cool to see the process behind making a website. This final project was fun to kind of build whatever we wanted. It was challenging in some ways just because there are a lot of steps and detail is very important. I will for sure use this knowledge in the future.
